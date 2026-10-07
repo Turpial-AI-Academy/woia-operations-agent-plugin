@@ -1,0 +1,36 @@
+{
+  "schema": "dev.woia.operations.coordination/v1",
+  "department": "operations",
+  "version": "0.5.0",
+  "method": [
+    "Accept and scope the distinct authorized field contribution",
+    "Prepare resources, physical access and custody without duplicating scheduling",
+    "Coordinate attributable real-world execution and handle deviations within authority",
+    "Record and verify field evidence and return the precise contribution outcome",
+    "Preserve continuity, owned residuals and closure of only the fulfilled contribution"
+  ],
+  "distinctions": [
+    "request receipt",
+    "own-authority acceptance",
+    "calendar booking",
+    "attendance",
+    "physical execution",
+    "reported observation",
+    "professional diagnosis",
+    "competent acceptance",
+    "money"
+  ],
+  "core_dependency": {
+    "name": "woia-core",
+    "minimum_version": "0.5.3"
+  },
+  "source_authority_required": true,
+  "organization_values": "configured, never inferred",
+  "business_state_owner": "owning shared provider",
+  "external_contact_owner": "customer-service",
+  "scheduling_mutation_owner": "customer-service",
+  "money_owner": "finance",
+  "negotiation": "human-led",
+  "operator_e2e": "NOT_RUN",
+  "production_ready": false
+}
