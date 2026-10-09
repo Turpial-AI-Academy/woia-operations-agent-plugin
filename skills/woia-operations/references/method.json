@@ -1,7 +1,7 @@
 {
   "schema": "dev.woia.operations.coordination/v1",
   "department": "operations",
-  "version": "0.5.6",
+  "version": "0.5.7",
   "method": [
     "Accept and scope the distinct authorized field contribution",
     "Prepare resources, physical access and custody without duplicating scheduling",
@@ -22,7 +22,7 @@
   ],
   "core_dependency": {
     "name": "woia-core",
-    "minimum_version": "0.5.6"
+    "minimum_version": "0.5.7"
   },
   "source_authority_required": true,
   "organization_values": "configured, never inferred",
