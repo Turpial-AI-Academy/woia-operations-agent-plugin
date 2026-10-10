@@ -5,7 +5,7 @@ Coordinate authorized field contributions, resources and access, human execution
 
 See [skill](skills/woia-operations/SKILL.md), [method contract](skills/woia-operations/references/CONTRACT.md).
 
-No Real Estate delta, copied business master, contact dispatcher, financial executor or organization policy. Physical provider/runtime qualification and Operator E2E are NOT_RUN; Production Ready is false.
+Qualified owners retain business masters, contact dispatch, financial execution and organization policies. Operations consumes accepted typed references and coordinates distinct contributions. Physical provider/runtime qualification and Operator E2E are NOT_RUN; Production Ready is false.
 
 ## Maintenance
 

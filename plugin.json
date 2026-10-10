@@ -1,7 +1,7 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "woia-operations",
-  "version": "0.5.7",
+  "version": "0.5.8",
   "description": "Coordinate authorized field contributions, resources and access, human execution, attributable evidence and owned residuals.",
   "author": {
     "name": "Turpial AI Academy",
